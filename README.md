@@ -1,0 +1,1 @@
+# Detection-of-Exercise-and-Cooking-Scene-for-Assistance-of-Visually-Impaired-People
